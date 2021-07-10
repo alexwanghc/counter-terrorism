@@ -4,6 +4,8 @@
 
 项目黑名单：
 https://github.com/cirosantilli/cirosantilli
+https://github.com/cirosantilli/china-dictatorship
+
 
 # 怎么锤？？？
 懂得都懂
