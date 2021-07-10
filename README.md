@@ -5,6 +5,11 @@
 项目黑名单：
 https://github.com/cirosantilli/cirosantilli
 
+# 怎么锤？？？
+懂得都懂
+![image](https://user-images.githubusercontent.com/21185908/125169815-73663700-e1de-11eb-9fce-e051d3ad8184.png)
+
+
 
 # 举报方式
 ### 政府举报
