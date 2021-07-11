@@ -3,8 +3,10 @@
 
 
 项目黑名单：
-https://github.com/cirosantilli/cirosantilli
-https://github.com/cirosantilli/china-dictatorship
+https://github.com/cirosantilli/cirosantilli  
+https://github.com/cirosantilli/china-dictatorship  
+https://github.com/muxiv/evil-man  
+https://github.com/Xmader  
 
 
 # 怎么锤？？？懂得都懂，做一次键盘侠也不错
