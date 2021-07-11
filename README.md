@@ -2,7 +2,7 @@
 反恐，反境外势力干涉，反github政治化，希望大家出一分力，净化github环境
 
 
-项目黑名单：
+项目黑名单：  
 https://github.com/cirosantilli/cirosantilli  
 https://github.com/cirosantilli/china-dictatorship  
 https://github.com/muxiv/evil-man  
