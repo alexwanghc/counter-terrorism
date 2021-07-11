@@ -13,8 +13,11 @@ https://github.com/Xmader
 
 # 举报方式
 ### 政府举报
-http://www.cyberpolice.cn/wfjb/
-### GITHUB举报
+http://www.cyberpolice.cn/wfjb/  
+https://www.12377.cn/  
+
+
+### GITHUB举报【基本没用】
 ![image](https://user-images.githubusercontent.com/21185908/125169095-41070a80-e1db-11eb-89ed-3bd6fd5db55a.png)
 
 如有更多涉政项目，请提issue！！！
