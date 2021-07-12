@@ -1,5 +1,5 @@
 # counter-terrorism
-反恐，反境外势力干涉，反GitHub政治化，希望大家出一分力，净化GitHub环境
+反恐，反境外势力干涉，反GitHub政治化，希望大家出一分、份力，净化GitHub环境
 
 
 # 项目黑名单：  
