@@ -7,6 +7,7 @@
 2. https://github.com/cirosantilli/china-dictatorship  
 3. https://github.com/CNwoman-bot/evil-man
 4. https://github.com/webdao/tuidang/  
+5. https://github.com/jk-ice-cream/jk.ice_cream_  
 
 # GitHub 用户黑名单：
 1. https://github.com/cirosantilli/
@@ -14,7 +15,7 @@
 3. https://github.com/Xmader  
 4. https://github.com/FreeHongKong-PP
 5. https://github.com/morsecn
-
+6. https://github.com/jk-ice-cream/  
 
 # 怎么锤？？？懂得都懂，做一次键盘侠也不错
 
